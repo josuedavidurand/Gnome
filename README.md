@@ -18,15 +18,9 @@ The goal of the game is to kill you in the time. You win a little time and kill 
 
 You can move using arrow keys and start or restart the game by pressing space.
 
-[![screenshot](./description/demo.png)](josuedavidurand.github.io/gnome)
-
-<a href="http" align="center"><img src="./description/demo.png" alt="launch the demo"/></a>
-
-
-<a href="www.google.com"><p align="center">
+<a href="https://josuedavidurand.github.io/Gnome/"><p align="center">
   <img src="./description/demo.png" alt="Launch the demo"/>
 </p></a>
-
 
 ### todos
 
