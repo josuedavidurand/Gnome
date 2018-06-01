@@ -1,0 +1,62 @@
+@font-face {
+    font-family: SHPinscher;
+    src: url(../font/SHPinscher-Regular.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    height: 100%;
+    overflow: hidden;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    background: url('../img/bg.png') no-repeat center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+section {
+    font-family: SHPinscher, sans-serif;
+    color: #fefefe;
+}
+h1{
+    font-size: 200px;
+    text-shadow: 5px 5px rgba(101, 134, 145, 0.50);
+    
+}
+
+section ul {
+
+}
+section li {
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+section li:first-child {
+    font-weight: bold;
+}
+button {
+    padding: 15px 25px;
+    margin-bottom: 5px;
+    background-color: rgba(94, 71, 67, 0.767);
+    border: solid 1px #fff;
+    color: #fff;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 1s background-color;
+}
+button:hover {
+    background-color: rgba(202, 60, 60, 0.671);
+    cursor: pointer;
+}
+
+/* section button{
+    color: #eeff00;
+
+} */
+
